@@ -1,4 +1,6 @@
 {
   "name": "travolta",
-  "dependencies": {}
+  "dependencies": {
+    "ember": "^2.10.0"
+  }
 }
